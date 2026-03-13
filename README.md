@@ -49,7 +49,7 @@ Revenue Visibility: Identified 20+ "High-Value" accounts requiring immediate AI 
 Clone the repository:
 
 Bash
-git clone https://github.com/YourUsername/Revenue-Integrity-Engine.git
+git clone https://github.com/sunonmountain/Revenue-Integrity-Engine.git
 Install dependencies:
 
 Bash
