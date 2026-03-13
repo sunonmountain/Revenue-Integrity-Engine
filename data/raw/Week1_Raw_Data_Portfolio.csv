@@ -1,0 +1,101 @@
+Lead_ID,First_Name,Last_Name,Email,Company,Job_Title,Phone,City,Annual_Revenue_Est,Last_Modified,Lead_Score
+1001,Gavin,Vadivalloo,gavinv@yahoo.com,TechFlow Solutions,Chief Revenue Officer,7414222971,London,12450000,2025-04-12,98
+1002,gavin,VADIVALLOO,gavin.v@techflow.co.uk,TECHFLOW,,7414222971,London,12450000,2025-04-12,88
+1003,SARAH,Smith,sarah.smith@cloudbridge.co.uk,CloudBridge UK,Head of Sales,+44 7821 445921,Manchester,4200000,2024-11-20,45
+1004,ALISTAIR,Higgins,,FinScale Ltd,VP of Operations,7123999402,Reading,8120000,2025-01-05,62
+1005,priya,PATEL,priya.patel@greenmetrics.co.uk,GreenMetrics,Head of Sales,7555123456,Birmingham,2500000,2025-05-18,77
+1006,JAMES,Wright,james.wright@techflow.co.uk,TechFlow Solutions,SDR Manager,+44 7900 112233,Bristol,1100000,2024-08-30,31
+1007,Emma,JONES,emma.jones@cyberguard.co.uk,CyberGuard,Marketing Director,7444888222,London,15000000,2025-02-14,95
+1008,mohammed,khan,m.khan@finscale.co.uk,FinScale Ltd,,7222333444,Manchester,6750000,2024-12-01,50
+1009,SIOBHAN,O'Neill,s.oneill@cloudbridge.co.uk,CloudBridge UK,Head of Sales,+44 7777 666555,Reading,3900000,2025-03-25,82
+1010,GAVIN,vadivalloo,gavinv@yahoo.com,TechFlow Solutions,Chief Revenue Officer,7414222971,London,12450000,2025-04-12,98
+1011,sarah,SMITH,sarah.s@greenmetrics.co.uk,GreenMetrics,VP of Operations,7888999000,Birmingham,2100000,2025-01-15,40
+1012,Alistair,HIGGINS,a.higgins@cyberguard.co.uk,CyberGuard,Chief Revenue Officer,7111222333,Bristol,14200000,2025-05-02,91
+1013,PRIYA,patel,,FinScale Ltd,SDR Manager,7666555444,Manchester,5400000,2024-10-10,33
+1014,James,WRIGHT,j.wright@cloudbridge.co.uk,CloudBridge UK,Marketing Director,+44 7555 444333,London,4800000,2025-02-28,67
+1015,EMMA,jones,emma.j@techflow.co.uk,TechFlow Solutions,,7333222111,Reading,1500000,2025-04-05,29
+1016,Mohammed,KHAN,m.khan@greenmetrics.co.uk,GreenMetrics,Head of Sales,7999888777,Birmingham,3100000,2024-09-15,74
+1017,siobhan,o'neill,s.oneill@cyberguard.co.uk,CyberGuard,VP of Operations,7111999888,Bristol,13000000,2025-01-22,89
+1018,Gavin,Vadivalloo,gavin.v@finscale.co.uk,FinScale Ltd,Chief Revenue Officer,7414222971,Manchester,7200000,2024-11-12,94
+1019,Sarah,Smith,,CloudBridge UK,Head of Sales,7821445921,London,4200000,2025-03-01,55
+1020,Alistair,Higgins,a.higgins@greenmetrics.co.uk,GreenMetrics,,7123999402,Reading,2800000,2024-07-20,22
+1021,Priya,Patel,p.patel@techflow.co.uk,TechFlow Solutions,Marketing Director,7555123456,Birmingham,1800000,2025-02-10,61
+1022,gAVIN,VADIVALLOO,gavin.vadivalloo@techflow.co.uk,TECHFLOW,Chief Revenue Officer,7414222971,London,12450000,2025-04-12,88
+1023,James,WRIGHT,,CyberGuard,SDR Manager,+44 7900 112233,Bristol,16500000,2025-05-30,98
+1024,Emma,JONES,emma.j@finscale.co.uk,FinScale Ltd,Head of Sales,7444888222,Manchester,6900000,2024-12-15,84
+1025,Mohammed,Khan,m.khan@cloudbridge.co.uk,CloudBridge UK,,7222333444,Reading,3500000,2025-01-10,42
+1026,Siobhan,O'Neill,s.oneill@greenmetrics.co.uk,GreenMetrics,VP of Operations,+44 7777 666555,Birmingham,2200000,2025-04-20,71
+1027,ALISTAIR,HIGGINS,a.higgins@techflow.co.uk,TechFlow Solutions,Chief Revenue Officer,7111222333,London,1100000,2024-08-15,35
+1028,PRIYA,PATEL,priya.patel@cyberguard.co.uk,CyberGuard,,7666555444,Bristol,14800000,2025-03-12,90
+1029,JAMES,WRIGHT,j.wright@finscale.co.uk,FinScale Ltd,Head of Sales,+44 7555 444333,Manchester,7100000,2024-10-25,81
+1030,EMMA,JONES,,CloudBridge UK,VP of Operations,7333222111,Reading,3800000,2025-02-05,58
+1031,MOHAMMED,KHAN,m.khan@greenmetrics.co.uk,GreenMetrics,SDR Manager,7999888777,Birmingham,2900000,2024-09-01,25
+1032,SIOBHAN,O'NEILL,s.oneill@techflow.co.uk,TECHFLOW,Marketing Director,7111999888,London,12450000,2025-04-12,88
+1033,Gavin,Vadivalloo,gavin.v@cyberguard.co.uk,CyberGuard,,7414222971,Bristol,15200000,2025-01-18,97
+1034,Sarah,Smith,sarah.s@finscale.co.uk,FinScale Ltd,Chief Revenue Officer,7821445921,Manchester,6800000,2024-11-25,93
+1035,Alistair,Higgins,,CloudBridge UK,Head of Sales,7123999402,Reading,3600000,2025-02-15,79
+1036,Priya,Patel,p.patel@greenmetrics.co.uk,GreenMetrics,VP of Operations,7555123456,Birmingham,2400000,2024-07-10,65
+1037,James,Wright,james.w@techflow.co.uk,TechFlow Solutions,,+44 7900 112233,London,1200000,2025-04-30,48
+1038,Emma,Jones,emma.j@cyberguard.co.uk,CyberGuard,SDR Manager,7444888222,Bristol,14100000,2025-05-20,38
+1039,Mohammed,Khan,,FinScale Ltd,Marketing Director,7222333444,Manchester,7300000,2024-12-28,86
+1040,Siobhan,O'Neill,s.oneill@cloudbridge.co.uk,CloudBridge UK,Chief Revenue Officer,+44 7777 666555,Reading,4100000,2025-03-15,92
+1041,Alistair,Higgins,a.higgins@greenmetrics.co.uk,GreenMetrics,,7111222333,Birmingham,2700000,2025-01-05,51
+1042,Priya,Patel,priya.p@techflow.co.uk,TECHFLOW,Head of Sales,7666555444,London,12450000,2025-04-12,88
+1043,James,Wright,,CyberGuard,VP of Operations,+44 7555 444333,Bristol,16000000,2025-02-12,70
+1044,Emma,Jones,emma.jones@finscale.co.uk,FinScale Ltd,SDR Manager,7333222111,Manchester,6600000,2024-10-05,27
+1045,Mohammed,Khan,m.khan@cloudbridge.co.uk,CloudBridge UK,Marketing Director,7999888777,Reading,3400000,2025-04-18,63
+1046,Siobhan,O'Neill,,GreenMetrics,Chief Revenue Officer,7111999888,Birmingham,2300000,2024-08-15,96
+1047,gavin,vadivalloo,gavin.v@techflow.co.uk,TechFlow Solutions,,7414222971,London,1300000,2025-05-25,44
+1048,SARAH,SMITH,sarah.smith@cyberguard.co.uk,CyberGuard,Head of Sales,7821445921,Bristol,13900000,2025-02-01,85
+1049,ALISTAIR,HIGGINS,,FinScale Ltd,VP of Operations,7123999402,Manchester,7000000,2024-11-20,68
+1050,priya,patel,p.patel@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7555123456,Reading,3700000,2025-03-10,32
+1051,JAMES,WRIGHT,james.w@greenmetrics.co.uk,GreenMetrics,Marketing Director,+44 7900 112233,Birmingham,2100000,2024-09-22,60
+1052,Emma,Jones,emma.j@techflow.co.uk,TECHFLOW,Chief Revenue Officer,7444888222,London,12450000,2025-04-12,88
+1053,Mohammed,Khan,,CyberGuard,Head of Sales,7222333444,Bristol,15500000,2025-01-10,83
+1054,Siobhan,O'Neill,s.oneill@finscale.co.uk,FinScale Ltd,VP of Operations,+44 7777 666555,Manchester,7400000,2024-12-15,69
+1055,Alistair,Higgins,a.higgins@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7111222333,Reading,3900000,2025-05-02,36
+1056,Priya,Patel,,GreenMetrics,Marketing Director,7666555444,Birmingham,2500000,2024-10-18,64
+1057,James,Wright,j.wright@techflow.co.uk,TechFlow Solutions,Chief Revenue Officer,+44 7555 444333,London,1400000,2025-02-28,99
+1058,Emma,Jones,emma.jones@cyberguard.co.uk,CyberGuard,Head of Sales,7333222111,Bristol,14300000,2025-04-05,87
+1059,Mohammed,Khan,,FinScale Ltd,VP of Operations,7999888777,Manchester,6900000,2024-09-15,66
+1060,Siobhan,O'Neill,s.oneill@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7111999888,Reading,3800000,2025-01-22,34
+1061,Alistair,Higgins,a.higgins@greenmetrics.co.uk,GreenMetrics,Marketing Director,7414222971,Birmingham,2800000,2024-11-12,61
+1062,Priya,Patel,,TechFlow Solutions,Chief Revenue Officer,7821445921,London,1150000,2025-03-01,95
+1063,James,Wright,james.wright@cyberguard.co.uk,CyberGuard,Head of Sales,7123999402,Bristol,16200000,2025-02-15,84
+1064,Emma,Jones,emma.j@finscale.co.uk,FinScale Ltd,VP of Operations,7555123456,Manchester,7100000,2024-07-10,67
+1065,Mohammed,Khan,,CloudBridge UK,SDR Manager,+44 7900 112233,Reading,4000000,2025-04-30,37
+1066,Siobhan,O'Neill,s.oneill@greenmetrics.co.uk,GreenMetrics,Marketing Director,7444888222,Birmingham,2400000,2025-05-20,62
+1067,Alistair,Higgins,a.higgins@techflow.co.uk,TECHFLOW,Chief Revenue Officer,7222333444,London,12450000,2025-04-12,88
+1068,Priya,Patel,,CyberGuard,Head of Sales,+44 7777 666555,Bristol,14900000,2025-03-15,83
+1069,James,Wright,james.w@finscale.co.uk,FinScale Ltd,VP of Operations,7111222333,Manchester,7300000,2025-01-05,68
+1070,Emma,Jones,emma.j@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7666555444,Reading,3600000,2025-04-12,35
+1071,Mohammed,Khan,,GreenMetrics,Marketing Director,+44 7555 444333,Birmingham,2600000,2025-02-12,63
+1072,Siobhan,O'Neill,s.oneill@techflow.co.uk,TechFlow Solutions,Chief Revenue Officer,7333222111,London,1550000,2024-10-05,96
+1073,Alistair,Higgins,a.higgins@cyberguard.co.uk,CyberGuard,Head of Sales,7999888777,Bristol,13800000,2025-04-18,82
+1074,Priya,Patel,,FinScale Ltd,VP of Operations,7111999888,Manchester,7200000,2024-08-15,69
+1075,James,Wright,j.wright@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7414222971,Reading,4100000,2025-05-25,36
+1076,Emma,Jones,emma.jones@greenmetrics.co.uk,GreenMetrics,Marketing Director,7821445921,Birmingham,2300000,2025-02-01,64
+1077,Mohammed,Khan,,TECHFLOW,Chief Revenue Officer,7123999402,London,12450000,2025-04-12,88
+1078,Siobhan,O'Neill,s.oneill@cyberguard.co.uk,CyberGuard,Head of Sales,7555123456,Bristol,14200000,2024-11-20,85
+1079,Alistair,Higgins,a.higgins@finscale.co.uk,FinScale Ltd,VP of Operations,+44 7900 112233,Manchester,6800000,2025-03-10,67
+1080,Priya,Patel,,CloudBridge UK,SDR Manager,7444888222,Reading,3800000,2024-09-22,34
+1081,James,Wright,james.wright@greenmetrics.co.uk,GreenMetrics,Marketing Director,7222333444,Birmingham,2200000,2025-04-12,61
+1082,Emma,Jones,emma.j@techflow.co.uk,TechFlow Solutions,Chief Revenue Officer,+44 7777 666555,London,1200000,2025-01-10,94
+1083,Mohammed,Khan,,CyberGuard,Head of Sales,7111222333,Bristol,15100000,2024-12-15,83
+1084,Siobhan,O'Neill,s.oneill@finscale.co.uk,FinScale Ltd,VP of Operations,7666555444,Manchester,7100000,2025-05-02,68
+1085,Alistair,Higgins,a.higgins@cloudbridge.co.uk,CloudBridge UK,SDR Manager,+44 7555 444333,Reading,3700000,2024-10-18,35
+1086,Priya,Patel,,GreenMetrics,Marketing Director,7333222111,Birmingham,2600000,2025-02-28,63
+1087,James,Wright,j.wright@techflow.co.uk,TECHFLOW,Chief Revenue Officer,7999888777,London,12450000,2025-04-12,88
+1088,Emma,Jones,emma.jones@cyberguard.co.uk,CyberGuard,Head of Sales,7111999888,Bristol,14500000,2025-04-05,86
+1089,Mohammed,Khan,,FinScale Ltd,VP of Operations,7414222971,Manchester,7000000,2024-09-15,67
+1090,Siobhan,O'Neill,s.oneill@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7821445921,Reading,3900000,2025-01-22,33
+1091,Alistair,Higgins,a.higgins@greenmetrics.co.uk,GreenMetrics,Marketing Director,7123999402,Birmingham,2500000,2024-11-12,62
+1092,Priya,Patel,,TechFlow Solutions,Chief Revenue Officer,7555123456,London,1100000,2025-03-01,92
+1093,James,Wright,james.w@cyberguard.co.uk,CyberGuard,Head of Sales,+44 7900 112233,Bristol,15800000,2025-02-15,85
+1094,Emma,Jones,emma.j@finscale.co.uk,FinScale Ltd,VP of Operations,7444888222,Manchester,6900000,2024-07-10,68
+1095,Mohammed,Khan,,CloudBridge UK,SDR Manager,7222333444,Reading,3600000,2025-04-30,36
+1096,Siobhan,O'Neill,s.oneill@greenmetrics.co.uk,GreenMetrics,Marketing Director,+44 7777 666555,Birmingham,2400000,2025-05-20,63
+1097,Alistair,Higgins,a.higgins@techflow.co.uk,TechFlow Solutions,Chief Revenue Officer,7111222333,London,1250000,2025-04-12,88
+1098,Priya,Patel,,CyberGuard,Head of Sales,7666555444,Bristol,14700000,2025-03-15,82
+1099,James,Wright,james.wright@finscale.co.uk,FinScale Ltd,VP of Operations,+44 7555 444333,Manchester,7400000,2025-01-05,69
+1100,Emma,Jones,emma.jones@cloudbridge.co.uk,CloudBridge UK,SDR Manager,7333222111,Reading,3800000,2025-04-12,34
